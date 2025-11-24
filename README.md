@@ -1,6 +1,5 @@
 # Medical Insurance Cost Prediction  
-*Project 11 — Machine Learning Project*  
-<sup>by Vandana Bhumireddygari</sup>
+
 
 ## 📋 Project Overview  
 This project seeks to **predict individual medical insurance costs** using demographic and health-related features. The goal is to build a regression model that estimates the annual insurance charge for a person based on attributes such as age, sex, BMI, smoking status, region, and number of children.
@@ -45,11 +44,7 @@ The dataset used in this project originates from the publicly available “Medic
    - Provide actionable insights: e.g., “Smoker status is the strongest single predictor of higher charges,” “Higher BMI correlates strongly with higher cost, especially among smokers,” etc.
 
 ## 📈 Results Summary  
-*(You should fill this section with your specific results from the notebook, such as final model chosen, performance metrics, a table or chart summarizing them.)*  
-- Final selected model: **[ModelName]**  
-- Test MAE: _[value]_  
-- Test MSE: _[value]_  
-- Test R²: _[value]_  
+
 - Key findings:  
   - Smoking status increases predicted cost by ~X% (or $X) on average.  
   - Each unit increase in BMI associates with an average ~\$Y increase in charge (keeping other variables constant).  
